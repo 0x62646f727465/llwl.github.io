@@ -1,2 +1,2 @@
 # llwl.github.io
-SSG website pages for llwl
+SSG pages for Learn Languages With Lyrics website
